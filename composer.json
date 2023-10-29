@@ -1,0 +1,17 @@
+{
+    "name": "dni/fa2en",
+    "description": "convert persian number to english number",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dni\\Fa2en\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MRD"
+        }
+    ],
+    "require": {}
+}
